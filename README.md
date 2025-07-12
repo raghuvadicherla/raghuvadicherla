@@ -31,7 +31,7 @@ I'm a **Data Analyst** and a **Master’s student in Management Information Syst
 ---
 
 ## 🏆 Certifications & Achievements:  
-• **Programming Foundations With Python** 
+• **Programming Foundations With Python**
 • **Career Skills in Data Analytics**  
 • **Career Skills in Data Analytics** 
 
