@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Raghu vamshi vadicherla  
 
-## 👩🏻‍💻 About Me: 
+## 👤 About Me: 
 
 I'm a **Data Analyst** and a **Master’s student in Management Information Systems at the Auburn University at Montgomery**.  With **3+ years of experience** in the IT industry, I specialize in **Business Analyst, Cloud Computing, Machine Learning, and Big Data Engineering**. My passion lies in solving complex challenges through **data architectures and AI-driven solutions**.  
 
