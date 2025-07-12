@@ -22,16 +22,16 @@ I'm a **Data Analyst** and a **Master’s student in Management Information Syst
 
 ## 🛠️ Tech Stack:  
 • **Programming Languages:** Python, Java, C, JavaScript  
-• **Cloud & Big Data:** AWS (Glue, Lambda, Redshift, DynamoDB, Athena), Azure
-• **Visualization & Analytics:** Power BI, Tableau, EDA, Data Cleaning, Excel (Pivot Tables, VLOOKUP)
-• **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB
-• **Project Management:** Agile & Jira
+• **Cloud & Big Data:** AWS (Glue, Lambda, Redshift, DynamoDB, Athena), Azure   
+• **Visualization & Analytics:** Power BI, Tableau, EDA, Data Cleaning, Excel (Pivot Tables, VLOOKUP)   
+• **Databases:** MySQL, PostgreSQL, MongoDB, DynamoDB   
+• **Project Management:** Agile & Jira   
 • **Soft Skills:** Analytical Thinking, Communication, Problem-Solving, Teamwork and Collaboration  
 
 ---
 
 ## 🏆 Certifications & Achievements:  
-• **Programming Foundations With Python**
+• **Programming Foundations With Python**     
 • **Career Skills in Data Analytics**  
 • **Career Skills in Data Analytics** 
 
