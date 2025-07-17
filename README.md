@@ -2,7 +2,7 @@
 
 ## 👤 About Me: 
 
-I'm a **Data Analyst** and a **Master’s student in Management Information Systems at the Auburn University at Montgomery**.  With **3+ years of experience** in the IT industry, I specialize in **Business Analyst, Cloud Computing, Machine Learning, and Big Data Engineering**. My passion lies in solving complex challenges through **data architectures and AI-driven solutions**.  
+I'm a **Data Analyst with 5+ Years Experience** Turning Raw Data into Business Value and a **Master’s student in Management Information Systems at the Auburn University at Montgomery**. I specialize in **Business Analyst, Cloud Computing, Machine Learning, and Big Data Engineering**. My passion lies in solving complex challenges through **data architectures and AI-driven solutions**.  
 
 ---
 
