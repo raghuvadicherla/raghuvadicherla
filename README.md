@@ -7,9 +7,9 @@ I'm a **Data Analyst with 5+ Years Experience** Turning Raw Data into Business V
 ---
 
 ## 🔍 What Drives Me?  
-• Designing and implementing ETL pipelines using AWS Glue, Lambda, Step Functions, and DynamoDB.
+• Designing and implementing ETL pipelines using AWS Glue, Lambda, Step Functions, and DynamoDB.  
 • Developing big data solutions for batch and real-time analytics.    
-• Providing optimized database solutions using MySQL, PostgreSQL, and MongoDB Server for enhanced performance and scalability. 
+• Providing optimized database solutions using MySQL, PostgreSQL, and MongoDB Server for enhanced performance and  scalability. 
 
 ---
 
