@@ -2,7 +2,7 @@
 
 ## 👤 About Me: 
 
-I'm a **Data Analyst with 5+ Years Experience** Turning Raw Data into Business Value and a **Master’s student in Management Information Systems at the Auburn University at Montgomery**. I specialize in **Business Analyst, Cloud Computing, Machine Learning, and Big Data Engineering**. My passion lies in solving complex challenges through **data architectures and AI-driven solutions**.  
+I'm a **Data Analyst with 4+ Years Experience** Turning Raw Data into Business Value and a **Master’s student in Management Information Systems at the Auburn University at Montgomery**. I specialize in **Business Analyst, Cloud Computing, Machine Learning, and Big Data Engineering**. My passion lies in solving complex challenges through **data architectures and AI-driven solutions**.  
 
 ---
 
@@ -31,9 +31,9 @@ I'm a **Data Analyst with 5+ Years Experience** Turning Raw Data into Business V
 ---
 
 ## 🏆 Certifications & Achievements:  
-• **Programming Foundations With Python**     
-• **Career Skills in Data Analytics**  
-• **Career Skills in Data Analytics** 
+• **Professional Scrum Master - Scrum.org**     
+• **AI/BI for Data Analysts - Databricks**  
+• **Data Analysis with AI - Certified** 
 
 ---
 
